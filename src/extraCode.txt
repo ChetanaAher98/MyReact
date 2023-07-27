@@ -1,0 +1,32 @@
+{/* <Events/> */ }
+{/* <UseEffectDemo/> */ }
+{/* <Car/> */ }
+{/* <Child/> */ }
+{/* <UseEffectDemo></UseEffectDemo> */ }
+{/* <RegistrationForm/> */ }
+{/* <Registationform1/> */ }
+{/* <Registor/> */ }
+
+{/* <PropsDemo name={name} age={age} hobbies={hobbies} company={company} />
+  <hr />
+  <PropsDemo name="Akash" age={25} hobbies={["Sleeping", "Gaming"]}
+    company={{ name: "XYZ", city: "Pune" }} /> */}
+
+
+{/* <div className="App">
+  <Car/>
+  <h1 style={{ color: "red", fontSize: "50px" }}>Hello World</h1>
+  <p style={attribute}>My self</p>
+</div>
+<h1>My name is {xyz}</h1>
+<hr /> */}
+
+
+
+
+{/* <UseContextDemo>
+         <div>
+          // <Component1 />
+        </div> *
+      </UseContextDemo> */}
+{/* <Usestate1/> */ }
